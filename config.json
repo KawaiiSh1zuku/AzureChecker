@@ -1,0 +1,5 @@
+{
+    "print_bad": false,
+    "thread": 16,
+    "timeout": 10000
+}
